@@ -1,6 +1,6 @@
 # WebGL-Tutorial
 
-# WebGL Tutorial Project
+# https://git.ajou.ac.kr/webgl_2020/better_project/201621161/index.html
 
 #https://www.khronos.org/opengl/wiki/Main_Page
 
